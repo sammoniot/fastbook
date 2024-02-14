@@ -11,5 +11,5 @@ __pycache__/
 Lib/
 Scripts/
 etc/
-pyenv.cfg
+pyvenv.cfg
 share/
